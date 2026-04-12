@@ -1,12 +1,6 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Admission to Southeast University Suzhou Institute for Master's Degree, 2026
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Academic Excellence Scholarship, Jiangsu University, 2024-2025
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Robotics Competition Awards, Jiangsu University, 2024
