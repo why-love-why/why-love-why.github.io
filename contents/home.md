@@ -6,7 +6,7 @@ I am currently a senior student majoring in Robotics at Jiangsu University, and 
 
 #### Contact
 
-Email: your.email@example.com
+Email: whylovewhy99@gmail.com
 
 #### Education
 - M.E., Electronic Information, Southeast University Suzhou Institute, 2026—2029
