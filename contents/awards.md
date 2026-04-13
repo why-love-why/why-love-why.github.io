@@ -1,6 +1,17 @@
 
-- Admission to Southeast University Suzhou Institute for Master's Degree, 2026
+- First-class Scholarship, Jiangsu University, 2022
 
-- Academic Excellence Scholarship, Jiangsu University, 2024-2025
+- Special Scholarship, Jiangsu University, 2023
 
-- Robotics Competition Awards, Jiangsu University, 2025
+- China Resources Microelectronics Scholarship, 2024
+
+
+- National Runner-up🏆, RoboCom Robot Development Competition (RAICOM), 2024
+
+- First Prize in Jiangsu Province,Intelligent Manufacturing Challenge (CIMC), 2024
+
+- National Second Prize, University Intelligent Robot Innovation Competition, 2025
+
+- National Third Place🏆, RoboCom Robot Development Competition (RAICOM), 2025
+
+-  Innovation Project: Design of Sliding Mode Controller for Parallel Robots in Conveying Based on Disturbance Observation, First Completer, 2025

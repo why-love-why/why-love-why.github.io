@@ -1,6 +1,6 @@
 #### In Progress
 
-- Undergraduate Thesis: Robot Kinematics and Dynamics Modeling with Observer-based Sliding Mode Control
+- Undergraduate Thesis: Design of Robust Sliding Mode Controller for Uncertain Hybrid Serial-Parallel Robots
 - Reinforcement Learning for Legged Robot Gait Stability Control
 
 #### Future Publications
